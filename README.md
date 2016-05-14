@@ -1,2 +1,5 @@
 # 2016SE_Project
-WinMerge를 구현하자!
+Make a Merge Program like WinMerge from scratch
+
+from: 2016.05.14
+until: 2016.06.11
