@@ -1,3 +1,5 @@
+이미 써져있는 파일 수정
+
 /////////////////////////////////////////////////////////////////////////////
 //    WinMerge:  an interactive diff/merge utility
 //    Copyright (C) 1997-2000  Thingamahoochie Software
